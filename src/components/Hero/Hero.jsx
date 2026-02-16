@@ -8,7 +8,7 @@ const Hero = () => {
 {/* Hero content */}
 <div className='max-w-[1200px] mx-auto px-10 flex md:flex-row flex-col items-center md:pt-20 pt-20'>
   <div className='flex-1'>
-    <span className='bg-orange-100 py-2 px-5 text-orange-500 text-lg rounded-full'>
+    <span className='bg-orange-100 py-3 px-5 text-orange-500 text-lg rounded-full'>
       Export Best Quality..
     </span>
 
