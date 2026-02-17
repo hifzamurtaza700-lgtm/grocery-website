@@ -6,7 +6,7 @@ const Hero = () => {
     <section>
        
 {/* Hero content */}
-<div className='max-w-[1200px] mx-auto px-10 flex md:flex-row flex-col items-center md:pt-20 pt-20'>
+<div className='max-w-[1200px] mx-auto px-10 flex md:flex-row flex-col items-center  pt-25'>
   <div className='flex-1'>
     <span className='bg-orange-100 py-3 px-5 text-orange-500 text-lg rounded-full'>
       Export Best Quality..
